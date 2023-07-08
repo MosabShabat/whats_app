@@ -1,0 +1,14 @@
+import 'package:flutter/material.dart';
+import 'package:velocity_x/velocity_x.dart';
+
+class ErrorScreen extends StatelessWidget {
+  final String error;
+  const ErrorScreen({super.key, required this.error});
+
+  @override
+  Widget build(BuildContext context) {
+    return Center(
+      child: error.text.make(),
+    );
+  }
+}

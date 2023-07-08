@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "522628035280",
+    "project_id": "whatsapp-d3e95",
+    "storage_bucket": "whatsapp-d3e95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522628035280:android:e52012ec9612a1d15ca4d5",
+        "android_client_info": {
+          "package_name": "com.example.whats_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522628035280-8fvcs0khqd2o1fft2bop90n6nja3ecjm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.whats_app",
+            "certificate_hash": "1761f9599786e6c108880c9bb322a8d023ae9cbc"
+          }
+        },
+        {
+          "client_id": "522628035280-pv6evfe75llnc7p6jc0am7c1a7mfqpdg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ5UeojRB10eelfOylGF5NOGOsA9ROkr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522628035280-pv6evfe75llnc7p6jc0am7c1a7mfqpdg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "522628035280-u8ial0uqvp1al2ogkf4jf1cg7o85lc3h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.whatsApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
